@@ -1,9 +1,9 @@
 (async()=>{
   const defaultPrefs = {
     essentialPatches: true,
-    spoofAdmin: false,
+    spoofAdmin: true,
     spoofPlus: false,
-    unlockAllBlooks: false,
+    unlockAllBlooks: true,
     bypassRandomName: false,
     skipBoxOpenAnimation: false,
     hideParticles: false,
